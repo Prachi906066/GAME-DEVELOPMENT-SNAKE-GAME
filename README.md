@@ -44,3 +44,6 @@ The game runs inside the run() method, which includes the main loop. This loop h
 -Conclusion
 This project helped me understand core game development principles, such as managing a game loop, real-time input handling, rendering with SFML, sound management, collision detection, and clean code organization through classes and functions. It also strengthened my understanding of C++ STL containers (like vectors), memory-safe graphics handling, and incremental difficulty design. If extended further, I would consider adding pause/resume features, menus, high score saving, and additional game modes for more advanced functionality.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/e373cfe3-a6ab-4303-ab2d-431f03cbb41f)
+
